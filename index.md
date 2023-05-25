@@ -9,3 +9,4 @@ I am the System Scientist for the
 <a href="http://mse.cfht.hawaii.edu">Maunakea Spectroscopic Explorer</a>.
 My research focuses on the chemical and kinematic characterization of stellar populations in the Milky Way and Local Volume.
 
+Over the course of my career, I have acquired various coding expertise.
