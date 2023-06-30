@@ -6,10 +6,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "jsobeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oneillleo
 github_username:  jsobeck
+linkedin_username: jsobeck
 
 # Build settings
 theme: minima
-markdown: kramdown
+#markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-relative-links
