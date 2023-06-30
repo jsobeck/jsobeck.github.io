@@ -10,7 +10,7 @@ linkedin_username: jsobeck
 
 # Build settings
 theme: minima
-#markdown: kramdown
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-relative-links

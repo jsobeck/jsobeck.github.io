@@ -4,9 +4,8 @@
 
 layout: home
 ---
-<!-- <figure> -->
-<img align="right" src="{{ site.url }}/assets/JS_Pic2.jpg" hspace="25" width="200">
-<!-- </figure> -->
+
+![Image](assets/JS_Pic2.jpg)
 
 
 Currently, I am the System Scientist for the 
