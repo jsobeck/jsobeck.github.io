@@ -14,12 +14,12 @@ ads_link: "http://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_autho
 # Build settings
 theme: minima
 markdown: kramdown
-#plugins:
-#  - jekyll-feed
-#  - jekyll-relative-links
-#relative_links:
-#  enabled: true
-#  collections: true
+plugins:
+  - jekyll-feed
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 
 # Exclude these files from production website 
 exclude:
