@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+![Image](assets/JS_Pic2.jpg)  
 ---
 
-![Image](assets/JS_Pic2.jpg){width="40%"}
-
+<img src="assets/JS_Pic2.jpg"  width="40%" height="30%">
 
 Currently, I am the System Scientist for the 
 <a href="http://mse.cfht.hawaii.edu">Maunakea Spectroscopic Explorer</a>.
