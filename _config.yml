@@ -2,13 +2,13 @@
 title: Jennifer Sobeck
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jsobeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jsobeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 email: joneillsobeck@gmail.com
 twitter_username: oneillleo
 github_username:  jsobeck
 linkedin_username: jsobeck
 ads_link: 
-"https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=*%3A*&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FSobeck%2C%20J%2FSobeck%2C%20J%20%20L%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FSobeck%2C%20J%2FSobeck%2C%20J%20%20L%22)&p_=0&q=Sobeck%2C%20J&sort=date%20desc%2C%20bibcode%20desc"
+"http://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=*%3A*&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FSobeck%2C%20J%2FSobeck%2C%20J%20%20L%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FSobeck%2C%20J%2FSobeck%2C%20J%20%20L%22)&p_=0&q=Sobeck%2C%20J&sort=date%20desc%2C%20bibcode%20desc"
 
 # Build settings
 theme: minima
