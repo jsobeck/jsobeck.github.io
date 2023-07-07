@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image](assets/JS_Pic2.jpg)
+![Image](assets/JS_Pic2.jpg =100x20)
 
 
 Currently, I am the System Scientist for the 
