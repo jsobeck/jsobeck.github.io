@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 Jekyll_setup_initial/
 404.html
+Gemfile
+Gemfile.lock
