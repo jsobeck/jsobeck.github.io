@@ -11,7 +11,7 @@ twitter_username: oneillleo
 github_username:  jsobeck
 linkedin_username: jsobeck
 ads_link: "http://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=NOT&filter_author_facet_hier_fq_author=*%3A*&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FSobeck%2C%20J%2FSobeck%2C%20J%20%20L%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(*%3A*%20NOT%20author_facet_hier%3A%221%2FSobeck%2C%20J%2FSobeck%2C%20J%20%20L%22)&q=%20author%3A%22Sobeck%2C%20Jennifer%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-#cv: "assets/JSobeckCV062023.pdf"
+cv: "https://github.com/jsobeck/jsobeck.github.io/blob/main/assets/JSobeckCV062023.pdf"
 #ORCID: 0000-0002-4989-0353
 
 # Build Settings
@@ -20,6 +20,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 relative_links:
   enabled: true
