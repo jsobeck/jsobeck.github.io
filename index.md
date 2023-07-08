@@ -18,6 +18,7 @@ molecular inputs for stellar analysis.
 Over the course of my career, I have acquired expertise in several programming languages (Python, Fortran, IDL, R) and a wealth of experience with
 various software.  
 
-I am the primary developer of MOOG_SCAT, a radiative transfer code that incorporates coherent, isotropic scattering. 
+I am the primary developer of <a href="https://github.com/jsobeck/MOOG_SCAT">MOOG_SCAT</a>, a radiative transfer code that 
+incorporates coherent, isotropic scattering. 
 
 
