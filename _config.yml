@@ -3,7 +3,11 @@ title: Jennifer Sobeck
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jsobeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-email: joneillsobeck@gmail.com
+author:
+  name: Jennifer Sobeck
+  email: joneillsobeck@gmail.com
+
+# Social/Network Settings
 twitter_username: oneillleo
 github_username:  jsobeck
 linkedin_username: jsobeck
@@ -13,15 +17,18 @@ ads_link: "http://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_autho
 
 # Build settings
 theme: minima
+
 markdown: kramdown
+
 plugins:
   - jekyll-feed
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+#  - jekyll-relative-links
 
-# Exclude these files from production website 
+# relative_links:
+#  enabled: true
+#  collections: true
+
+# File Exclusion Settings 
 exclude:
   - CHANGELOG.md
   - Gemfile
