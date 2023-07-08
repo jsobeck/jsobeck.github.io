@@ -2,8 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-![Image](assets/JS_Pic2.jpg)  
+layout: page  
 ---
 
 <img src="assets/JS_Pic2.jpg"  width="40%" height="30%">
