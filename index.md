@@ -7,16 +7,15 @@ layout: page
 
 <img src="assets/JS_Pic2.jpg"  width="40%" height="30%">
 
-Currently, I am the System Scientist for the 
+Currently, I am the <a href="https://mse.cfht.hawaii.edu/?page_id=179">System Scientist</a> for the 
 <a href="http://mse.cfht.hawaii.edu">Maunakea Spectroscopic Explorer</a>.
 
 My scientific research has centered on variety of topics that include: the chemical and kinematic characterization of stellar populations in the Milky Way and 
 Local Volume; the study of chemical evolution and nucleosynthetic mechanisms in stellar populations; and the detailed determination of fundamental atomic and 
 molecular inputs for stellar analysis.  
 
-
-Over the course of my career, I have acquired expertise in several programming languages (Python, Fortran, IDL, R) and a wealth of experience with
-various software.  
+Over the course of my career, I have acquired expertise in several programming languages (high proficiency: Python, Fortran, IDL; moderate proficiency: SQL, R) and a 
+wealth of experience with various software.  
 
 I am the primary developer of <a href="https://github.com/jsobeck/MOOG_SCAT">MOOG_SCAT</a>, a radiative transfer code that 
 incorporates coherent, isotropic scattering. 

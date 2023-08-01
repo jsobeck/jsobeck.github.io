@@ -5,4 +5,8 @@ permalink: /publications/
 show_in_nav: true
 ---
 
-Publications
+Updated: July 18, 2023
+Total Number of Publications: 191
+Number of Refereed Publications: 92
+
+
