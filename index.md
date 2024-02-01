@@ -7,8 +7,10 @@ layout: page
 
 <img src="assets/JS_Pic2.jpg"  width="40%" height="30%">
 
-Currently, I am the <a href="https://mse.cfht.hawaii.edu/?page_id=179">System Scientist</a> for the 
-<a href="http://mse.cfht.hawaii.edu">Maunakea Spectroscopic Explorer</a>.
+Currently, I am an <a href="https://www.ipac.caltech.edu/science/staff/jennifer-sobeck">Associate Scientist</a> at the 
+<a href="https://www.ipac.caltech.edu/">Caltech/IPAC</a>.
+
+I am currently assigned to the Science Support Center (SSC) for the <a href="https://www.ipac.caltech.edu/project/roman">Nancy Grace Roman Space Telescope<\a>.
 
 My scientific research has centered on variety of topics that include: the chemical and kinematic characterization of stellar populations in the Milky Way and 
 Local Volume; the study of chemical evolution and nucleosynthetic mechanisms in stellar populations; and the detailed determination of fundamental atomic and 
