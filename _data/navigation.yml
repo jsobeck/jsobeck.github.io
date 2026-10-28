@@ -1,0 +1,16 @@
+# Order of the links in the site header.
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Code"
+    url: /code/
+
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "CV"
+    url: /cv/
