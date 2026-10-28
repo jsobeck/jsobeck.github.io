@@ -6,3 +6,7 @@ Jekyll_setup_initial/
 404.html
 Gemfile
 Gemfile.lock
+
+# Local working files (not for the public site)
+Claude outputs/
+.DS_Store

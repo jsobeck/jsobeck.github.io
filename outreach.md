@@ -13,9 +13,13 @@ I have been incredibly fortunate to participate in a variety of public outreach 
 
 [Space Explorers](https://kavlicosmo.uchicago.edu/outreach/space-explorers/)
 
+[Software Carpentry](https://software-carpentry.org/) (instructor, 2020, 2022, 2023)
+
+United States Congressional Visits Day for Science, Engineering, and Technology
+
 [Astro on Tap](https://astronomyontap.org/locations/seattle-wa/)
 
-Links to two of of my "Astro On Tap" presentations follow below:
- - https://www.youtube.com/watch?v=WxXs9ttQEJ8
- - https://www.youtube.com/watch?v=WxXs9ttQEJ8
+Links to two of my "Astro On Tap" presentations follow below:
+ - [Astro on Tap talk 1](https://www.youtube.com/watch?v=exGvQaYo6DQ)
+ - [Astro on Tap talk 2](https://www.youtube.com/watch?v=WxXs9ttQEJ8&t=3325s) (starts at 55:25)
 

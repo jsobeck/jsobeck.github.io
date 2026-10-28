@@ -38,6 +38,14 @@
           </li>
           {% endif %}
 
+          {% if site.bluesky_username %}
+          <li>
+            <a href="https://bsky.app/profile/{{ site.bluesky_username }}">
+              <svg width="14" height="14" viewBox="0 0 600 530" fill="currentColor" aria-hidden="true" style="vertical-align:-1px"><path d="M135.7 44.3C204.5 95.9 278.5 200.6 305.7 256.8c27.2-56.2 101.2-160.9 170-212.5 49.6-37.2 130-66 130 25.6 0 18.3-10.5 153.7-16.7 175.7-21.5 76.4-99.4 95.9-168.8 84.1 121.3 20.6 152.2 89 85.5 157.4-126.6 129.9-182-32.6-196.2-74.2-2.6-7.6-3.8-11.2-3.8-8.2 0-3-1.2.6-3.8 8.2-14.2 41.6-69.6 204.1-196.2 74.2-66.7-68.4-35.8-136.8 85.5-157.4-69.4 11.8-147.3-7.7-168.8-84.1C10.2 223.6-.3 88.2-.3 69.9c0-91.6 80.4-62.8 130-25.6z"/></svg> Bluesky
+            </a>
+          </li>
+          {% endif %}
+
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
