@@ -6,16 +6,16 @@ author_profile: true
 
 I am a stellar spectroscopist. My work centers on the chemodynamical characterization of stellar populations, from the solar neighborhood to the Local Group.
 
-## Stellar populations and chemical evolution
+## Stellar Populations and Chemical Evolution
 I use spectroscopy to trace the chemical makeup and motions of stars in the Milky Way and nearby galaxies. This tells us how the elements were made and how these systems assembled.
 
-## Atomic and molecular data
+## Atomic and Molecular Data
 My Ph.D. work, *An Atomic Physics Viewpoint of Stellar Abundance Analysis*, focused on getting accurate laboratory inputs for stellar analysis. That work continues to shape how I approach abundance measurements.
 
-## Radiative transfer
+## Radiative Transfer
 MOOG_SCAT adds coherent, isotropic scattering to the LTE code MOOG (see [Code]({{ "/code/" | relative_url }})).
 
-## Large surveys and instrumentation
+## Large Surveys and Instrumentation
 I have helped lead large spectroscopic survey development and implementation:
 
 - SDSS-IV APOGEE-2 (project management and operations)

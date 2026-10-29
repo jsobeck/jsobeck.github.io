@@ -13,7 +13,7 @@ redirect_from:
 - **M.A. in Physics**, University of Texas at Austin, 2003. *Gas Phase Enthalpy Difference Between the Two Conformers of n-Butane*
 - **B.S. in Physics**, University of Texas at Austin
 
-## Research positions
+## Research Positions
 - **MSOS Team Lead**, Microlensing Science Operations System, Roman Science Support Center, Caltech/IPAC (Oct 2025 to present)
 - **Lead Systems Scientist**, Roman Science Support Center, Caltech/IPAC (Oct 2023 to present)
 - **Associate Scientist**, IPAC, California Institute of Technology (Oct 2023 to present)
@@ -40,21 +40,13 @@ redirect_from:
 - Rubin LSST Survey Cadence Optimization Committee Milky Way Observing Strategy Task Force
 - Rubin LSST Stars, Milky Way & Local Volume (SMWLV) MC Working Group, Co-Chair
 
-## Review panels and service
+## Review Panels and Service
 - NSF AAG, AAPF and CAREER proposal review panelist
 - NASA APRA-SAT proposal review panelist and panel chair
 - STScI HST proposal review panelist and vice chair
 - NOIRLab Gemini Large Program review panelist
 - Referee for ApJ, ApJ Letters, A&A, MNRAS, and J. Phys. B: Atomic, Molecular & Optical Physics
 - United States Congressional Visits Day, Science, Engineering, & Technology
-
-## Grants and awards
-- SDSS-IV Architect (2020)
-- e-Science Institute Incubator Project, PI (2018)
-- NSF Astronomy and Astrophysics Research Grants, Collaborator/Co-I (AST 0607708, 0907732, 1715898)
-- Sloan Foundation Grant, Collaborator/Co-I (2013, 2015)
-- University of Virginia Center for Global Inquiry & Innovation Grant, Co-I (2015)
-- STScI Hubble Space Telescope GO/AR Program Grants, Co-I (Cycles 18, 19, 20, 23)
 
 ## Skills
 - **Programming:** Python, IDL, Fortran (proficient); R, Matlab, Mathematica, C++ (familiar)
