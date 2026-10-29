@@ -1,0 +1,52 @@
+/* ==========================================================================
+    ROMAN THEME - LIGHT VERSION (deep-space navy and gold)
+    ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #1d4f91;
+$navy                       : #0e1f3d;
+$gold                       : #d4962a;
+$gray                       : #6f7a8a;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+/* Color codes used for the site */
+$danger-color               : #ee5f5b;
+$info-color                 : #1d4f91;
+$notice-color               : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Default light theme for the site */
+:root {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #fff;
+    --global-footer-bg-color            : #eef2f8;
+    --global-border-color               : #{$lighter-gray};
+    --global-dark-border-color          : #c3cbd8;
+    --global-code-background-color      : #f6f8fb;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-link-color                 : #1d5fae;
+    --global-link-color-hover           : #a86c0e;
+    --global-link-color-visited         : #3d4f8f;
+    --global-masthead-bg-color          : #{$navy};
+    --global-masthead-link-color        : #e8edf6;
+    --global-masthead-link-color-hover  : #{$gold};
+    --global-accent-color               : #{$gold};
+    --global-text-color                 : #26303f;
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #{$lighter-gray};
+}
+

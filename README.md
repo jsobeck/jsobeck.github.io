@@ -1,14 +1,20 @@
 # jsobeck.github.io
-Personal Website Address: [jsobeck.github.io](https://jsobeck.github.io)
 
-Site Host: Github Pages 
+Personal website of Jennifer Sobeck: <https://jsobeck.github.io>
 
-Site Build: Github Pages with Jekyll
+Built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template
+and deployed by GitHub Actions (`.github/workflows/jekyll.yml`) on every push to `main`.
+In the repository settings, **Settings > Pages > Source** must be set to **GitHub Actions**.
 
-(https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+## Where things live
+- Site settings, sidebar profile and social links: `_config.yml`
+- Header menu: `_data/navigation.yml`
+- Pages: `_pages/` (`about.md` is the home page)
+- Profile photo: `images/profile.jpg`
+- CV PDF: `files/JSobeck_CV.pdf`
 
-Attendant Note 1: during site creation process, installed and configured Ruby on personal machine. Subsequently 
-installed various ruby gems (e.g., kramdowm, webrick, faraday-retry) 
-
-<!--- GH pages created using Jekyll; consider for future using template such as
-https://github.com/academicpages/academicpages.github.io -->
+## Local preview
+```
+bundle install
+bundle exec jekyll serve -l -H localhost
+```
