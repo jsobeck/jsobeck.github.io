@@ -22,17 +22,11 @@ redirect_from:
 - Senior Research Scientist, Department of Astronomy, University of Washington (Mar 2017 to Feb 2021)
 - APOGEE-2 Project Manager/Deputy Project Manager, Sloan Digital Sky Survey IV (Oct 2013 to Nov 2018)
 - Senior Scientist/Research Associate, Department of Astronomy, University of Virginia (Oct 2013 to Mar 2017)
-- External Postdoctoral Scholar, Department of Astronomy and Astrophysics, University of Chicago (Jan 2012 to Dec 2013)
-- CNRS Postdoctoral Scholar, Laboratoire Lagrange, Observatoire de la Côte d'Azur (Dec 2011 to Jan 2013)
-- Kavli Institute for Cosmological Physics Associate Fellow, University of Chicago (Jun 2010 to Dec 2012)
-- JINA Postdoctoral Scholar, Joint Institute for Nuclear Astrophysics, University of Chicago (Oct 2008 to Dec 2011)
-- DGDF Postdoctoral Fellow, European Southern Observatory, Garching, Germany (2007, 2008)
 
 ## Teaching
 - Assistant Instructor, Software Carpentry (2020, 2022, 2023)
 - Guest Lecturer, Department of Astronomy, University of Washington (2018, 2019)
 - Assistant Instructor, Departments of Astronomy and Physics, University of Texas at Austin (2003 to 2005)
-- Teaching Assistant, Department of Physics, University of Texas at Austin (2000 to 2003)
 
 ## Committees
 - Roman Core Community Survey Definition Committee: Galactic Bulge Time Domain Survey

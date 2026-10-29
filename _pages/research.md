@@ -10,7 +10,7 @@ I am a stellar spectroscopist. My work centers on the chemodynamical characteriz
 I use spectroscopy to trace the chemical makeup and motions of stars in the Milky Way and nearby galaxies. This tells us how the elements were made and how these systems assembled.
 
 ## Atomic and Molecular Data
-My Ph.D. work, *An Atomic Physics Viewpoint of Stellar Abundance Analysis*, focused on getting accurate laboratory inputs for stellar analysis. That work continues to shape how I approach abundance measurements.
+My Ph.D. work, *An Atomic Physics Viewpoint of Stellar Abundance Analysis*, focused on both experimental and semi-empirical determinations of fundamental atomic inputs, and on the subsequent use of these data in the chemical composition analysis of stars. That work continues to shape how I approach abundance measurements.
 
 ## Radiative Transfer
 MOOG_SCAT adds coherent, isotropic scattering to the LTE code MOOG (see [Code]({{ "/code/" | relative_url }})).
@@ -22,4 +22,4 @@ I have helped lead large spectroscopic survey development and implementation:
 - Maunakea Spectroscopic Explorer (system science and science operations planning)
 
 ## Nancy Grace Roman Space Telescope
-I am Lead Systems Scientist for the Roman SSC and oversee the Microlensing Science Operations System (MSOS) pipeline team for the Galactic Bulge Time Domain Survey. I served on the GBTDS Core Community Survey Definition Committee. I am also developing near-infrared stellar spectral atlases for Roman's grism and prism.
+I am the Lead Systems Scientist for the Science Support Center (SSC), responsible for requirements verification and validation in the CGI, RTPS, GDPS, and MSOS subsystems. I am the Lead of the SSC MSOS Pipeline Team, which is tasked with the advanced image and light curve processing for the GBTDS, one of Roman's Core Community Surveys. I am also developing near-infrared stellar spectral atlases for Roman's grism and prism.
