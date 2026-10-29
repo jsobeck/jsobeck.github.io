@@ -1,0 +1,55 @@
+/* ==========================================================================
+   ROMAN THEME ADDITIONS
+   Navy masthead with gold accents. Colors come from _sass/theme/_roman_*.scss.
+   ========================================================================== */
+
+.masthead,
+.greedy-nav,
+.greedy-nav button,
+.masthead__menu-item {
+  background: var(--global-masthead-bg-color, var(--global-bg-color));
+}
+
+.masthead {
+  border-bottom: 3px solid var(--global-accent-color, var(--global-border-color));
+}
+
+.greedy-nav button { color: var(--global-masthead-link-color); }
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after { background: var(--global-masthead-link-color); }
+
+.greedy-nav .hidden-links,
+.greedy-nav .hidden-links li { background: var(--global-masthead-bg-color, var(--global-bg-color)); }
+
+.masthead__menu-item.selected a,
+.masthead__menu-item.selected a:hover {
+  color: var(--global-masthead-link-color);
+  border-bottom: 2px solid var(--global-accent-color, var(--global-masthead-link-color));
+}
+
+/* Section headings get a thin gold rule */
+.page__content h2 {
+  border-bottom: 1px solid var(--global-accent-color, var(--global-border-color));
+}
+
+/* Primary buttons in navy, gold on hover */
+.btn--primary {
+  background-color: var(--global-base-color);
+  &:hover { background-color: var(--global-accent-color, var(--global-base-color)); color: #fff; }
+}
+
+/* Avatar ring */
+.author__avatar img { border-color: var(--global-accent-color, var(--global-border-color)); }
+
+/* Home-page banner */
+.roman-banner {
+  margin: 0 0 1.5em;
+  img { display: block; width: 100%; height: auto; border-radius: 6px; }
+  figcaption {
+    margin-top: 0.4em;
+    font-family: inherit;
+    font-size: 0.75em;
+    color: var(--global-fig-caption-color);
+  }
+}

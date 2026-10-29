@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<figure class="roman-banner">
+  <img src="{{ '/images/roman-banner.svg' | relative_url }}" alt="Illustration of a dense starfield toward the Galactic bulge with an exoplanet microlensing light curve">
+  <figcaption>Toward the Galactic bulge, where the Nancy Grace Roman Space Telescope's Galactic Bulge Time Domain Survey will search for microlensing events.</figcaption>
+</figure>
+
 I am an [Associate Scientist](https://www.ipac.caltech.edu/science/staff/jennifer-sobeck) at [Caltech/IPAC](https://www.ipac.caltech.edu/) and the Lead Systems Scientist for the [Nancy Grace Roman Space Telescope](https://www.ipac.caltech.edu/project/roman) Science Support Center (SSC) at IPAC. I also oversee the development team for the Microlensing Science Operations System (MSOS), the pipeline that will process data from Roman's core Galactic Bulge Time Domain Survey (GBTDS). I work with teams at NASA Goddard and STScI to help prepare the mission for the data volumes of its wide-field surveys.
 
 I am a stellar spectroscopist with a background in atomic and molecular physics. My research focuses on the chemical and kinematic characterization of stellar populations in the Milky Way and the Local Group.

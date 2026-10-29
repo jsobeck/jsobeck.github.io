@@ -14,7 +14,8 @@ redirect_from:
 - **B.S. in Physics**, University of Texas at Austin
 
 ## Research positions
-- **Lead Systems Scientist**, Roman Science Support Center, Caltech/IPAC (Oct 2023 to present). Oversee the Microlensing Science Operations System (MSOS) pipeline development team for the Roman Galactic Bulge Time Domain Survey.
+- **MSOS Team Lead**, Microlensing Science Operations System, Roman Science Support Center, Caltech/IPAC (Oct 2025 to present)
+- **Lead Systems Scientist**, Roman Science Support Center, Caltech/IPAC (Oct 2023 to present)
 - **Associate Scientist**, IPAC, California Institute of Technology (Oct 2023 to present)
 - MSE System Scientist, Maunakea Spectroscopic Explorer, Canada France Hawaii Telescope (Feb 2021 to Oct 2023)
 - SDSS-IV Project Manager for APOGEE-2 & LCO Operations, Sloan Digital Sky Survey IV (Nov 2018 to Feb 2021)
